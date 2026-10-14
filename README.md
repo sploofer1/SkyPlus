@@ -1,6 +1,6 @@
 <div align="center">
 
-# SkyPlus
+# SkyPlus Archived - [Reborn](https://github.com/sploofer1/SkyMod)
 
 **Расширение для avatar.skyeng.ru плашки статистики, Google Calendar и полная кастомизация интерфейса**
 
